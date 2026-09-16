@@ -1,0 +1,1 @@
+import{b as e}from"./chunk-2UW5RY7Z.js";export{e as TextAdapterRegistry};
